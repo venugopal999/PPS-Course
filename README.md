@@ -1,4 +1,4 @@
-# PPS Course (Problem Solving and Programming in C)
+# PPS Course (Programming for Problem Solving through C)
 
 This repository contains lecture notes, lab programs, and assignments for the PPS course offered in the B.Tech .
 
