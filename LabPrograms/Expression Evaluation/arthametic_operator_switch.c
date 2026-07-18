@@ -1,5 +1,5 @@
 
-// Week - 2: Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. 
+// Program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. 
 //(hint: Consider the operators +,-,*, /, % and use Switch Statement).
 // Objective: Demonstrate usage of switch-case
 // Author: Venu Goapl
