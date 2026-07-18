@@ -1,4 +1,4 @@
-// Week - 1: Program to find max and min of three numbers 
+// Program to find max and min of three numbers 
 // Objective: Demonstrate relational operators
 // Author: Venu Goapl
 
