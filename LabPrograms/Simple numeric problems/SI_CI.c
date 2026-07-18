@@ -1,5 +1,5 @@
 
-// Week - 1: Program for Simple and Compound Interest
+// Program for Simple and Compound Interest
 // Objective: Demonstrate simple math operations/calculations
 // Author: Venu Goapl
 
