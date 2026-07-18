@@ -1,5 +1,5 @@
 
-// Week - 1: Program for Multiplication Table
+// Program for Multiplication Table
 // Objective: Demonstrate for printing Multiplication Table for any number 
 // Author: Venu Goapl
 
