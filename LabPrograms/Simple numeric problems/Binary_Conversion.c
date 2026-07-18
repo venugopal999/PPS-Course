@@ -1,5 +1,5 @@
 
-// Week - 1: Program for Binary Equivalent (0-255)
+// Program for Binary Equivalent (0-255)
 // Objective: Demonstrate for converting decimal to binary 
 // Author: Venu Goapl
 
