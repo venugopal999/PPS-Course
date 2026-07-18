@@ -1,5 +1,5 @@
 
-// Week - 2: program that finds if a given number is a prime number
+// Program that finds if a given number is a prime number
 // Objective: Demonstrate usage of loops
 // Author: Venu Goapl
 
