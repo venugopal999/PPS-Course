@@ -1,5 +1,5 @@
 
-// Week - 2: program to find the sum of individual digits of a positive integer and test given number is palindrome.
+// Program to find the sum of individual digits of a positive integer and test given number is palindrome.
 // Objective: Demonstrate usage of loops
 // Author: Venu Goapl
 
